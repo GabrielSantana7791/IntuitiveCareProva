@@ -1,0 +1,29 @@
+*{
+	margin: 0pt;
+    padding: 0pt;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section{
+	padding-top: 10%;
+	
+}
+
+div{
+  width: 40%;
+  height: 100%;
+  margin: auto;
+  padding: 10pt;
+  background-color:  #332b4b2d;
+  border: 22pt;
+  border-style: solid;
+  border-color: gray;
+  border-radius: 15pt;
+  text-align: left;
+	
+}
+
+div p{
+	padding: 10pt
+}
