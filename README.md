@@ -1,3 +1,5 @@
+Projeto desenvolvido com Spring Boot.
+
 Para executar o projeto:
 1. instale o Maven em sua máquina. Para a instalação https://dicasdejava.com.br/como-instalar-o-maven-no-windows/
 2. Inicie o Prompt e redirecione para os arquivos do projeto
